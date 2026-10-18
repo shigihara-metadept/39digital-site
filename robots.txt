@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://39digital.jp/sitemap.xml
+# AI向けの事実リスト
+# https://39digital.jp/llms.txt
